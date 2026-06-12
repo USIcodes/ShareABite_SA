@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # ShareABite SA
 
 ShareABite SA is a PHP and MySQL food-sharing marketplace for buyers, sellers, donors, and admins. Users can register, log in, browse listings, place orders, manage seller listings, view admin reports, and enable authenticator-app verification for extra account security.
