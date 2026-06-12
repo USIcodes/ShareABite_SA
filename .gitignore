@@ -1,0 +1,23 @@
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+
+# Runtime session/cache files
+tmp/
+
+# User-uploaded runtime files
+uploads/*
+!uploads/.htaccess
+!uploads/.gitkeep
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Logs
+*.log
+
